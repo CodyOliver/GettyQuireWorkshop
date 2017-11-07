@@ -8,3 +8,5 @@ Getty Quire Workshop
 _hello italics_
 
 **hello bold**
+
+[Hello Links!](https://google.com)
